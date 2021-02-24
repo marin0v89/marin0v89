@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marin0v89 - Aleksandar Marinov
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java - OOP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/aleksandar-marinov-2290a6b5/
 
 <!---
